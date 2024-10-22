@@ -1,4 +1,4 @@
-# Open Transport BONJOUR
+# Open Transport CIAO
 
 Application web pour covoiturage. 
 
