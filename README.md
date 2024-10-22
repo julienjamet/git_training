@@ -1,4 +1,4 @@
-# Open Transport BONJOUR
+# Open Transport HI
 
 Application web pour covoiturage. 
 
