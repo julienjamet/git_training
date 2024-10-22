@@ -10,7 +10,7 @@ Ces instructions permettent d'execyugfuirhuter une copie du projet en local sur 
 ### Pré-requis
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
-trdgyuh
+trdgyuhuhbfiornklr,n
 ```
 A définir
 rytvubh
